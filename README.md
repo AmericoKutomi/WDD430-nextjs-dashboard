@@ -4,4 +4,4 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-I am trying to deploy this project in Vercel.
+I am trying to deploy this project in Vercel. I defined an environment variable there.
